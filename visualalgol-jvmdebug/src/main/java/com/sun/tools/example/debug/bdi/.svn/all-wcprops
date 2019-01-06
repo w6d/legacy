@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi
+END
+ThreadIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ThreadIterator.java
+END
+LineBreakpointSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/LineBreakpointSpec.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/Session.java
+END
+NoThreadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/NoThreadException.java
+END
+JDIEventSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/JDIEventSource.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ParseException.java
+END
+SpecEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/SpecEvent.java
+END
+ThreadGroupIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ThreadGroupIterator.java
+END
+SpecListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/SpecListener.java
+END
+EventRequestSpecList.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/EventRequestSpecList.java
+END
+EventRequestSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/EventRequestSpec.java
+END
+InputListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/InputListener.java
+END
+OutputListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/OutputListener.java
+END
+SpecErrorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/SpecErrorEvent.java
+END
+AmbiguousMethodException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/AmbiguousMethodException.java
+END
+AccessWatchpointSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/AccessWatchpointSpec.java
+END
+ModificationWatchpointSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ModificationWatchpointSpec.java
+END
+LineNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/LineNotFoundException.java
+END
+ThreadInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ThreadInfo.java
+END
+EvaluationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/EvaluationException.java
+END
+ChildSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ChildSession.java
+END
+SessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/SessionListener.java
+END
+FrameIndexOutOfBoundsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/FrameIndexOutOfBoundsException.java
+END
+WatchpointSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/WatchpointSpec.java
+END
+SourceNameReferenceTypeSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/SourceNameReferenceTypeSpec.java
+END
+ExecutionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ExecutionManager.java
+END
+NoSessionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/NoSessionException.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/Utils.java
+END
+VMLaunchFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/VMLaunchFailureException.java
+END
+VMNotInterruptedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/VMNotInterruptedException.java
+END
+ExceptionSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ExceptionSpec.java
+END
+BreakpointSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/BreakpointSpec.java
+END
+PatternReferenceTypeSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/PatternReferenceTypeSpec.java
+END
+MethodBreakpointSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/MethodBreakpointSpec.java
+END
+ReferenceTypeSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/ReferenceTypeSpec.java
+END
+MethodNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/MethodNotFoundException.java
+END
+MalformedMemberNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/bdi/MalformedMemberNameException.java
+END

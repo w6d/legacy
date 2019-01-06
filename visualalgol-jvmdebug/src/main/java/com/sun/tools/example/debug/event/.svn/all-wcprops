@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event
+END
+ModificationWatchpointEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/ModificationWatchpointEventSet.java
+END
+ClassUnloadEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/ClassUnloadEventSet.java
+END
+ThreadDeathEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/ThreadDeathEventSet.java
+END
+WatchpointEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/WatchpointEventSet.java
+END
+ClassPrepareEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/ClassPrepareEventSet.java
+END
+ThreadStartEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/ThreadStartEventSet.java
+END
+LocatableEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/LocatableEventSet.java
+END
+VMDeathEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/VMDeathEventSet.java
+END
+JDIAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/JDIAdapter.java
+END
+VMDisconnectEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/VMDisconnectEventSet.java
+END
+LocationTriggerEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/LocationTriggerEventSet.java
+END
+JDIListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/JDIListener.java
+END
+ExceptionEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/ExceptionEventSet.java
+END
+VMStartEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/VMStartEventSet.java
+END
+AccessWatchpointEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/AccessWatchpointEventSet.java
+END
+AbstractEventSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/event/AbstractEventSet.java
+END

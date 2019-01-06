@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/195/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso
+END
+AbrirAlgoritmo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/166/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/AbrirAlgoritmo.java
+END
+VerificarUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/195/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/VerificarUsuario.java
+END
+RefazerAcao.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/171/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/RefazerAcao.java
+END
+EscreverPseudoCodigo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/186/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/EscreverPseudoCodigo.java
+END
+Fluxo2PseudoCodigo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/171/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/Fluxo2PseudoCodigo.java
+END
+PseudoCodigo2Fluxo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/114/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/PseudoCodigo2Fluxo.java
+END
+CasoDeUso.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/114/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/CasoDeUso.java
+END
+InterpretarFluxograma.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/191/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/InterpretarFluxograma.java
+END
+CriarFacaEnquanto.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/135/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/CriarFacaEnquanto.java
+END
+DesfazerAcao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/171/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/DesfazerAcao.java
+END
+CriarWhile.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/122/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/CriarWhile.java
+END
+CriarCondicao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/122/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/CriarCondicao.java
+END
+CriarComando.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/171/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/CriarComando.java
+END
+AtualizarTela.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/192/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/AtualizarTela.java
+END
+FecharVisuAlgo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/134/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/FecharVisuAlgo.java
+END
+AutoArrumar.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/123/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/AutoArrumar.java
+END
+Ator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/140/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/Ator.java
+END
+Sistema.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/114/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/Sistema.java
+END
+SalvarAlgoritmo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/166/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/SalvarAlgoritmo.java
+END
+IniciarPrograma.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/166/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/IniciarPrograma.java
+END

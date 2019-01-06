@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/59/trunk/VisualAlgolNucleo/toolsrc/org/mozilla/javascript/tools/debugger
+END
+ScopeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/59/trunk/VisualAlgolNucleo/toolsrc/org/mozilla/javascript/tools/debugger/ScopeProvider.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/59/trunk/VisualAlgolNucleo/toolsrc/org/mozilla/javascript/tools/debugger/Main.java
+END
+Dim.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/59/trunk/VisualAlgolNucleo/toolsrc/org/mozilla/javascript/tools/debugger/Dim.java
+END
+SwingGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/59/trunk/VisualAlgolNucleo/toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/59/trunk/VisualAlgolNucleo/toolsrc/org/mozilla/javascript/tools/debugger/build.xml
+END
+GuiCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/59/trunk/VisualAlgolNucleo/toolsrc/org/mozilla/javascript/tools/debugger/GuiCallback.java
+END

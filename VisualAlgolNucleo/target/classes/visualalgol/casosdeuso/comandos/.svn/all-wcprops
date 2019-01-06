@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos
+END
+InterpretadorWhat.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/172/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/InterpretadorWhat.java
+END
+InterpretarWhy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/172/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/InterpretarWhy.java
+END
+InterpretadorMediador.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/134/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/InterpretadorMediador.java
+END
+EntradaInesperadaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/114/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/EntradaInesperadaException.java
+END
+InterpretadorDeComandoAbstrato.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/114/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/InterpretadorDeComandoAbstrato.java
+END
+InterpretadorWhere.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/189/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/InterpretadorWhere.java
+END
+InterpretadorHow.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/189/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/InterpretadorHow.java
+END
+InterpretadorWho.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/172/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/InterpretadorWho.java
+END
+InterpretarWhen.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/172/trunk/VisualAlgolNucleo/src/main/java/visualalgol/casosdeuso/comandos/InterpretarWhen.java
+END

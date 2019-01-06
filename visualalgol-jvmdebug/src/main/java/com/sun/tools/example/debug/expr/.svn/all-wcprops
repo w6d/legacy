@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/Token.java
+END
+Expr.jj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/Expr.jj
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/TokenMgrError.java
+END
+ExpressionParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/ExpressionParserTokenManager.java
+END
+LValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/LValue.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/ParseException.java
+END
+ExpressionParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/ExpressionParserConstants.java
+END
+ASCII_UCodeESC_CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/ASCII_UCodeESC_CharStream.java
+END
+ExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/146/trunk/visualalgol-jvmdebug/src/main/java/com/sun/tools/example/debug/expr/ExpressionParser.java
+END

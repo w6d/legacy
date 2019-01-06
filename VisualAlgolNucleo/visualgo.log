@@ -1,0 +1,22 @@
+ERROR Thread-11009 visualalgol.casosdeuso.InterpretarFluxograma - Erro ao interpretar comando s = 'null'
+java.lang.NullPointerException
+	at visualalgol.casosdeuso.InterpretarFluxograma.interpretarAlgoritmo(InterpretarFluxograma.java:112)
+	at visualalgol.casosdeuso.InterpretarFluxograma.executarComoThread(InterpretarFluxograma.java:70)
+	at visualalgol.casosdeuso.CasoDeUso$1.run(CasoDeUso.java:38)
+ERROR Thread-11010 visualalgol.casosdeuso.InterpretarFluxograma - Erro ao interpretar comando s = 'null'
+java.lang.NullPointerException
+	at visualalgol.casosdeuso.InterpretarFluxograma.interpretarAlgoritmo(InterpretarFluxograma.java:112)
+	at visualalgol.casosdeuso.InterpretarFluxograma.executarComoThread(InterpretarFluxograma.java:70)
+	at visualalgol.casosdeuso.CasoDeUso$1.run(CasoDeUso.java:38)
+INFO Thread-11222 visualalgol.casosdeuso.EscreverPseudoCodigo - escreveuPseudoCodigo 
+ERROR Thread-14891 visualalgol.casosdeuso.InterpretarFluxograma - Erro ao interpretar comando s = 'null'
+java.lang.NullPointerException
+	at visualalgol.casosdeuso.InterpretarFluxograma.interpretarAlgoritmo(InterpretarFluxograma.java:112)
+	at visualalgol.casosdeuso.InterpretarFluxograma.executarComoThread(InterpretarFluxograma.java:70)
+	at visualalgol.casosdeuso.CasoDeUso$1.run(CasoDeUso.java:38)
+INFO AWT-EventQueue-0 visualalgol.casosdeuso.EscreverPseudoCodigo - escreveuPseudoCodigo sim
+INFO AWT-EventQueue-0 visualalgol.casosdeuso.EscreverPseudoCodigo - escreveuPseudoCodigo funciona?
+INFO Thread-1 visualalgol.casosdeuso.EscreverPseudoCodigo - escreveuPseudoCodigo kill
+INFO Thread-3 visualalgol.casosdeuso.EscreverPseudoCodigo - escreveuPseudoCodigo keep
+INFO Thread-6 visualalgol.casosdeuso.EscreverPseudoCodigo - escreveuPseudoCodigo 
+INFO Thread-8 visualalgol.casosdeuso.EscreverPseudoCodigo - escreveuPseudoCodigo 
